@@ -1,2 +1,2 @@
 # Shishu-Kidney-Foundation
-Typescript + React
+Typescript + React + Vite + Framer Motion + TailwindCSS + Cloudfare
